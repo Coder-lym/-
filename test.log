@@ -1,0 +1,33 @@
+[INFO ][2018/09/24 19:33:51836][Server.Server.<init>(Server.java:25)]
+初始化服务器...
+  [INFO ][2018/09/24 19:33:51852][Server.Server.<init>(Server.java:27)]
+初始化服务器完毕！
+  [INFO ][2018/09/24 19:33:51852][Server.Server.start(Server.java:39)]
+等待客户连接...
+  [INFO ][2018/09/24 19:34:17221][Client.Gather.analytic(Gather.java:28)]
+正在解析数据文件...
+  [INFO ][2018/09/24 19:34:17518][Client.Gather.analytic(Gather.java:66)]
+数据文件解析完毕！
+  [INFO ][2018/09/24 19:34:17518][Client.DataClient.<init>(DataClient.java:20)]
+正在连接服务器...
+  [INFO ][2018/09/24 19:34:17533][Server.Server.start(Server.java:45)]
+客户端/127.0.0.1:54448已连接!
+  [INFO ][2018/09/24 19:34:17533][Server.Server.start(Server.java:39)]
+等待客户连接...
+  [INFO ][2018/09/24 19:34:17533][Server.ClientHandleThread.run(ClientHandleThread.java:37)]
+正在接收数据...
+  [INFO ][2018/09/24 19:34:17533][Client.DataClient.<init>(DataClient.java:22)]
+已成功连接服务器！
+  [INFO ][2018/09/24 19:34:17550][Client.DataClient.start(DataClient.java:34)]
+正在发送数据...
+  [INFO ][2018/09/24 19:34:41684][Server.ClientHandleThread.run(ClientHandleThread.java:42)]
+数据接收成功！
+  [INFO ][2018/09/24 19:34:41684][Client.DataClient.start(DataClient.java:36)]
+数据发送完毕！
+  [INFO ][2018/09/24 19:34:42514][Server.ClientHandleThread.run(ClientHandleThread.java:50)]
+正在录入数据...
+  [INFO ][2018/09/24 19:35:3488 ][Server.ClientHandleThread.run(ClientHandleThread.java:71)]
+数据已录入完毕！
+  [INFO ][2018/09/24 19:35:3488 ][Server.ClientHandleThread.run(ClientHandleThread.java:72)]
+共计用时：51秒。
+  
